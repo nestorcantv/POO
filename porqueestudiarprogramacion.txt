@@ -1,1 +1,30 @@
 ¿Por qué estudiar programación?
+!. Programar más rápido.
+2. Dejar de ser programador Jr.
+Encapsulamiento
+Abstracción
+Herencia
+Polimorfismo
+3. Dejar e copiar y pegar.
+
+
+--ANALIZAR--
+
+--PLASMAR--
+
+--PROGRAMAR--
+
+
+¿Qué resuelve la programación?
+
+La programación estructurada.
+
+- Código muy largo. Antes los programadores cobraban por linea.
+
+-Si lago falla todo se rompe.
+
+-El mantenimiento difícil. 
+
+- Resuelve el código espagueti. Muchos (if else) anidados.
+
+La POO simplifica la programación
