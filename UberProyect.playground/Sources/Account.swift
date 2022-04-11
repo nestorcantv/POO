@@ -1,15 +1,15 @@
 import Foundation
 
 class Account{
-    var id: Int
-    var name: String
-    var document: Int
-    var email: String
-    var password: String
+    var id:         Int
+    var name:       String
+    var document:   String
+    var email:      String
+    var password:   String
     
     init(id: Int,
          name: String,
-         document: Int,
+         document: String,
          email: String,
          password: String) {
         self.id = id
@@ -19,3 +19,4 @@ class Account{
         self.password = password
     }
 }
+let pana = Account(id: 78, name: "panita", document: "Algo", email: "panita@", password: "hola")
